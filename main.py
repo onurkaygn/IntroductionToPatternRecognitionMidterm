@@ -1,4 +1,4 @@
-#pip install pandas scikit-learn komutunu kullanarak projeye eklenebilir.
+#pip install pandas scikit-learn komutunu kullanarak projeye eksik paketler eklenebilir.
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
